@@ -1,0 +1,19 @@
+#clock {
+    font-size: 175px;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    width: 950px;
+    margin: 200px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+#date {
+    font-size: 90px;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    width: 475px;
+    margin: 100px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
